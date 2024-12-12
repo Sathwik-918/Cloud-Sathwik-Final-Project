@@ -1,0 +1,6 @@
+region = "us-east-1"
+bucket_name = "sathwik-rapala-terraform-bucket"
+ami_id = "ami-0453ec754f44f9a4a"
+instance_type = "t2.micro"
+vpc_cidr = "10.0.0.0/16"
+public_subnet_cidr = "10.0.1.0/24"
