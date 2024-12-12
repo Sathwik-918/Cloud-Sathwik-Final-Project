@@ -25,12 +25,6 @@ This repository contains Terraform configuration files to deploy an AWS-based in
 ### Compute
 - Launches an EC2 instance in the public subnet with a public IP address and the associated security group.
 
-## Prerequisites
-
-Before using this project, ensure the following are available:
-- [Terraform](https://www.terraform.io/downloads.html) (version >= 1.0)
-- AWS CLI configured with an IAM user/role with permissions to manage resources.
-- Appropriate values for variables in `terraform.tfvars`.
 
 ## Getting Started
 
